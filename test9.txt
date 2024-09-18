@@ -1,5 +1,2 @@
 hello world
-dad
-my son
-my grand
-my mom
+son
